@@ -1,0 +1,48 @@
+.piros{
+    border-right-width: 2mm;
+    border-right-style: double;
+    border-right-color: darkred;
+
+}
+div{
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border: 5px;
+    border: dotted;
+    border-color: burlywood;
+}
+
+#bal{
+    width: 70%;
+}
+#jobb{
+width: 80%;
+margin: auto;
+
+}
+p{
+    text-align: justify;
+    background-color: cornsilk;
+    margin:3mm ;
+    padding: 2mm 6mm;
+    text-indent: 1.5cm;
+}
+.kék{
+    padding-bottom: 1cm;
+    border-left-width: 1mm;
+    border-left-style:dashed;
+    border-left-color:blueviolet;
+
+    border-bottom-color: blue;
+    border-bottom-style: dashed;
+    border-bottom-width: 2mm;
+}
+.red{
+    font-variant: small-caps;
+    color: crimson;
+}
+.blue{
+    color: dodgerblue;
+    font-family: Cambria;
+    font-weight: bolder;
+}
